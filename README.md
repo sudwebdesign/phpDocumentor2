@@ -85,8 +85,8 @@ Afterwards you are able to run phpDocumentor directly from your `vendor` directo
 ##### OR install simple way for LINUX terminal
 
     wget http://phpdoc.org/phpDocumentor.phar
-    chmod +x phpdox.phar
-    sudo mv phpdox.phar /usr/bin/phpdox
+    chmod +x phpDocumentor.phar
+    sudo mv phpDocumentor.phar /usr/bin/phpdoc
 
 #####Profit!
 
