@@ -81,8 +81,10 @@ Afterwards you are able to run phpDocumentor directly from your `vendor` directo
 
 ### Using the PHAR
 
-1. Download the phar file from http://phpdoc.org/phpDocumentor.phar
-2. ???
+1. Download the phar file from http://phpdoc.org/phpDocumentor.phar OR
+2.  wget http://phpdoc.org/phpDocumentor.phar
+    chmod +x phpdox.phar
+    sudo mv phpdox.phar /usr/bin/phpdox
 3. Profit!
 
 How to use phpDocumentor?
